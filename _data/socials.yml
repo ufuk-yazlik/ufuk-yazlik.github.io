@@ -1,15 +1,16 @@
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Ufuk
-middle_name:
-last_name: Yazlık
-contact_note: batuhanyazlik@bilkent.edu.tr>
-  The best way to reach me is by email.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic website of Ufuk Yazlık, MA student in Philosophy at Bilkent University, working on ethics, epistemology, and ancient philosophy.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: philosophy, ethics, virtue ethics, character, moral motivation, action, epistemology, skepticism, ancient philosophy, Bilkent University
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🏛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks
+# Sosyal bağlantılar: ana sayfanın altında ikon olarak görünür, burada yazıldığı sırayla.
+# Bir satırı açmak için başındaki "# " işaretini sil ve kendi bilgini yaz.
+
+email: batuhanyazlik@bilkent.edu.tr # e-posta adresini buraya yaz
+
+# cv_pdf: /assets/pdf/cv.pdf # CV PDF'ini assets/pdf klasörüne "cv.pdf" adıyla yüklersen bu satırı aç
+# orcid_id: 0000-0000-0000-0000 # ORCID numaran
+# academia_edu: https://bilkent.academia.edu/KullaniciAdin # Academia.edu profil adresin
+# linkedin_username: kullanici-adin # LinkedIn kullanıcı adın
+# x_username: kullanici_adin # X (Twitter) kullanıcı adın
+
+# PhilPeople profilin varsa aşağıdaki 4 satırın başındaki "# " işaretlerini sil:
+# philpeople:
+#   logo: ai ai-philpapers
+#   title: PhilPeople
+#   url: https://philpeople.org/profiles/ufuk-yazlik
