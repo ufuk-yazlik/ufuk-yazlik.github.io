@@ -31,7 +31,7 @@ I am an MA student in the Department of Philosophy at Bilkent University in Anka
 
 In ethics, I am particularly interested in virtue ethics and in the questions it raises about character, motivation, and well-being. In epistemology, I focus mainly on skepticism and social epistemology.
 
-**Research interests:** virtue ethics · character · motivation · action · skepticism · ancient philosophy
+**Research interests:** virtue ethics · character · motivation · well-being · skepticism · social epistemology · ancient philosophy
 
 Feel free to get in touch by email.
 
