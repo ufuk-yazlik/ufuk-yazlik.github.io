@@ -34,3 +34,9 @@ In ethics, I am particularly interested in virtue ethics and in the questions it
 **Research interests:** virtue ethics · character · motivation · action · skepticism · ancient philosophy
 
 Feel free to get in touch by email.
+
+<style>
+  @media (min-width: 576px) {
+    .profile { width: 22% !important; }
+  }
+</style>
