@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an MA student in the Department of Philosophy at Bilkent University in Ankara. My research interests lie in ethics, epistemology, and ancient philosophy.
+I am an MA student in Philosophy at Bilkent University, Ankara. I work in ethics, epistemology, and ancient philosophy.
 
-In ethics, I work on virtue ethics and metaethics, especially on character, motivation, well-being, and normativity. In epistemology, I focus mainly on skepticism and social epistemology, particularly on whether and how knowledge is possible, the epistemic significance of disagreement, and practical knowledge. In ancient philosophy, I am especially interested in Plato’s epistemology, Aristotle’s ethics, and ancient skepticism.
+In ethics, I focus on virtue ethics (moral character, virtue, and motivation), metaethics (normativity and moral realism), and ancient ethics. In epistemology, I focus on skepticism and social epistemology (particularly disagreement).
 
-Research interests: virtue ethics · metaethics · character · motivation · well-being · normativity · skepticism · social epistemology · disagreement · practical knowledge · ancient philosophy · Plato · Aristotle
+Research interests: virtue ethics · moral character · motivation · normativity · moral realism · ancient ethics · skepticism · social epistemology
 
 Feel free to get in touch by email.
 
