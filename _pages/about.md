@@ -29,9 +29,9 @@ latest_posts:
 
 I am an MA student in Philosophy at Bilkent University, Ankara. I work in ethics, epistemology, and ancient philosophy.
 
-In ethics, I focus on virtue ethics (moral character and virtue), metaethics (normativity and moral epistemology), and ancient ethics. In epistemology, I focus on skepticism and social epistemology (particularly disagreement).
+In ethics, I focus on virtue ethics and metaethics. In epistemology, I focus on skepticism and social epistemology. I am also interested in ancient ethics and epistemology.
 
-Research interests: virtue ethics · moral character · normativity · moral epistemology · ancient ethics · skepticism · social epistemology
+Research interests: virtue ethics · metaethics · skepticism · social epistemology · ancient ethics · ancient epistemology
 
 Feel free to get in touch by email.
 
