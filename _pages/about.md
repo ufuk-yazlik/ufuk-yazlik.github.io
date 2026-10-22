@@ -29,7 +29,7 @@ latest_posts:
 
 I am an MA student in Philosophy at Bilkent University, Ankara. I work in ethics, epistemology, and ancient philosophy.
 
-In ethics, I focus on virtue ethics and metaethics. In epistemology, I focus on skepticism and knowledge. I am also interested in ancient ethics and epistemology.
+In ethics, I focus on virtue ethics and metaethics. In epistemology, I focus on skepticism and the concept of knowledge. I am also interested in ancient ethics and epistemology.
 
 **Research interests:** virtue ethics · metaethics · skepticism · ancient ethics · ancient epistemology
 
